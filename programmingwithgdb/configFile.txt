@@ -1,0 +1,5 @@
+C:\Program Files (x86)\SEGGER\JLink_V502k
+C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\bin
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3_2\common\bin\IarBuild.exe
+MKL28Z512XXX7,MKL02Z16XXX4, MKL27Z64xxx4
+C:\mcu-sdk-2.0\mcu-sdk-2.0\boards\frdmkl27z\demo_apps

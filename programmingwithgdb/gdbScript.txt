@@ -1,0 +1,10 @@
+target remote localhost:2331
+monitor reset
+monitor speed auto
+monitor endian little
+monitor reset
+load C:\\mcu-sdk-2.0\\mcu-sdk-2.0\\boards\\frdmkl27z\\demo_apps\\hello_world\\armgcc\\release\\hello_world.elf
+monitor reset
+monitor go
+disconnect
+q
